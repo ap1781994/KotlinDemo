@@ -73,8 +73,7 @@ class MainActivity : AppCompatActivity() {
 
             Toast.makeText(this@MainActivity,"User Added successfully Check at the bottom",Toast.LENGTH_LONG).show()
 
-            Toast.makeText(this@MainActivity,"Anohjgjghjgh",Toast.LENGTH_LONG).show()
-            Toast.makeText(this@MainActivity,"Anovdgdgfgjgjghjgh",Toast.LENGTH_LONG).show()
+
         }
 
 
