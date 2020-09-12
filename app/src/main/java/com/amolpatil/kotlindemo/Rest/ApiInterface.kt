@@ -13,4 +13,7 @@ interface ApiInterface {
     @GET("users")
     fun getUser(): Call<JsonArray>
 
+
+    @GET("users")
+    fun dasdsds(): Call<JsonArray>
 }
